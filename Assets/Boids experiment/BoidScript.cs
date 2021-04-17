@@ -5,17 +5,42 @@ using UnityEngine;
 public class BoidScript : MonoBehaviour
 {
     public Vector2 boundaries;
-
     public Vector2 velocity;
-    public float speed;
-    public float localRadius;
 
+
+    //BOIDS - algorithm
+    //boid - object behaving like bird
+    
+    [Header("Movement coeficients")]
+    //---------------------------
+    [Tooltip("Movement speed of all boids")]
+    public float speed;     //TODO speed range
+    //---------------------------
+    [Tooltip("Percent of impact of random movement on velocity")]
+    [Range(0, 1)]
+    public float randomnessInfluence;
+    //---------------------------
+    [Header("BOIDS behaviour")]
+    //---------------------------
+    [Tooltip("Percent of impact of BOIDS steering calculations on velocity")]
+    [Range(0, 1)]
+    public float boidEffect;
+    //---------------------------
+    [Tooltip("Takes only boids in this range to consideration")]
+    public float localRadius;
+    //---------------------------
+    [Tooltip("Steers away from other boids in range")]
     [Range(0, 1)]
     public float separationCoeficient;
+    //---------------------------
+    [Tooltip("Steers in same sirection as boids in range")]
     [Range(0, 1)]
     public float alignementCoeficient;
+    //---------------------------
+    [Tooltip("Steers closer to other boids in range")]
     [Range(0, 1)]
     public float cohesionCoeficient;
+
 
     private void Start()
     {
@@ -64,11 +89,12 @@ public class BoidScript : MonoBehaviour
         //cohesion
         Vector2 coh = Cohesion(otherLocalBoidsDouble);
 
-        velocity += 0.1f*(sep * separationCoeficient + ali * alignementCoeficient + coh * cohesionCoeficient).normalized;
-        float range = 0.1f;
+
+        velocity += boidEffect * (sep * separationCoeficient + ali * alignementCoeficient + coh * cohesionCoeficient).normalized;
+        float range = 1;
         float x = Random.Range(-range, range);
         float y = Random.Range(-range, range);
-        velocity += 0.1f * new Vector2(x, y).normalized;
+        velocity += randomnessInfluence * new Vector2(x, y).normalized;
         velocity.Normalize();
 
     }
