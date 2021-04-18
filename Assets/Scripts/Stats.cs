@@ -6,13 +6,13 @@ using UnityEngine.UI;
 public class Stats : MonoBehaviour
 {
     //hp
-    public int HP = 100;
-    public int maxHP = 100;
+    public float HP = 100;
+    public float maxHP = 100;
 
     //attack
     public float timeOfAttack = 0;
-    public float cooldown = 1;
-    public int damage = 34;
+    public float cooldown = 0.1f;
+    public float damage = 1.0f;
 
     //ui
     public Slider hpBar;
@@ -31,11 +31,11 @@ public class Stats : MonoBehaviour
         }
     }
 
-    public void DealDamage(int amount, Transform enemyGroup)
+    public void DealDamage(float amount, Transform enemyGroup)
     {
         HP -= amount;
 
-        hpBar.value = HP / (float)maxHP;
+        hpBar.value = HP / maxHP;
 
         if (HP<=0)
         {
@@ -47,9 +47,9 @@ public class Stats : MonoBehaviour
     //enviroment can't kill you
     public void DealDamage(float fraction)
     {
-        HP -= (int)(maxHP * fraction);
+        HP -= maxHP * fraction;
 
-        hpBar.value = HP / (float)maxHP;
+        hpBar.value = HP / maxHP;
 
         if (HP <= 0)
         {
@@ -65,6 +65,6 @@ public class Stats : MonoBehaviour
     public void Respawn()
     {
         HP = maxHP;
-        hpBar.value = HP / (float)maxHP;
+        hpBar.value = HP / maxHP;
     }
 }

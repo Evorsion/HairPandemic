@@ -10460,10 +10460,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   HP: 0
-  maxHP: 100
+  maxHP: 50
   timeOfAttack: 0
   cooldown: 0.1
-  damage: 1
+  damage: 0.5
   hpBar: {fileID: 5729016845446230683}
 --- !u!114 &7286610348381355282
 MonoBehaviour:
