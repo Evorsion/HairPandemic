@@ -88,6 +88,10 @@ public class HardBoundaries : MonoBehaviour
         {
             units.Add(unitToAdd);
         }
+        else if (unitToAdd.GetComponent<UnitBOIDS>())
+        {
+            units.Add(unitToAdd);
+        }
         else Debug.LogWarning("Přidáná jednotka co není hráčská ani nepřátelská");
     }
 }

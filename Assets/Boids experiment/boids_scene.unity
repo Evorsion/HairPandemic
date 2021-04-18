@@ -235,6 +235,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &6814920 stripped
@@ -354,6 +369,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -475,6 +505,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &19979599 stripped
@@ -594,6 +639,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -715,6 +775,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &32581991 stripped
@@ -834,6 +909,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -955,6 +1045,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &74317399 stripped
@@ -1074,6 +1179,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -1195,6 +1315,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &162071591 stripped
@@ -1314,6 +1449,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -1435,6 +1585,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &244195065 stripped
@@ -1554,6 +1719,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -1781,6 +1961,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &338441743 stripped
@@ -1900,6 +2095,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -2021,6 +2231,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &390265894 stripped
@@ -2140,6 +2365,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -2261,6 +2501,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &396474616 stripped
@@ -2380,6 +2635,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -2501,6 +2771,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &408596119 stripped
@@ -2620,6 +2905,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -2741,6 +3041,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &513771698 stripped
@@ -2861,6 +3176,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &562500853 stripped
@@ -2980,6 +3310,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -3184,6 +3529,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &572517453 stripped
@@ -3303,6 +3663,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -3424,6 +3799,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &643350921 stripped
@@ -3543,6 +3933,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -3664,6 +4069,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &675956003 stripped
@@ -3783,6 +4203,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -3904,6 +4339,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &730403292 stripped
@@ -4023,6 +4473,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -4144,6 +4609,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &875569043 stripped
@@ -4263,6 +4743,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -4384,6 +4879,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &934863571 stripped
@@ -4503,6 +5013,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -4624,6 +5149,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &972972187 stripped
@@ -4743,6 +5283,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -4864,6 +5419,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1022370711 stripped
@@ -4983,6 +5553,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -5104,6 +5689,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1032135642 stripped
@@ -5223,6 +5823,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -5344,6 +5959,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1131492917 stripped
@@ -5463,6 +6093,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -5584,6 +6229,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1172491254 stripped
@@ -5703,6 +6363,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -5824,6 +6499,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1314951400 stripped
@@ -5943,6 +6633,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -6064,6 +6769,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1357704084 stripped
@@ -6183,6 +6903,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -6304,6 +7039,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1396336314 stripped
@@ -6423,6 +7173,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -6544,6 +7309,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1422546503 stripped
@@ -6663,6 +7443,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -6784,6 +7579,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1465328594 stripped
@@ -6903,6 +7713,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -7024,6 +7849,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1522073706 stripped
@@ -7143,6 +7983,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -7264,6 +8119,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1625024301 stripped
@@ -7383,6 +8253,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -7504,6 +8389,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1676436543 stripped
@@ -7623,6 +8523,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -7744,6 +8659,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1749460156 stripped
@@ -7863,6 +8793,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -7984,6 +8929,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1820936828 stripped
@@ -8103,6 +9063,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -8224,6 +9199,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1889343178 stripped
@@ -8343,6 +9333,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -8464,6 +9469,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1952589854 stripped
@@ -8583,6 +9603,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -8704,6 +9739,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &1990946036 stripped
@@ -8823,6 +9873,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -8944,6 +10009,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &2024603461 stripped
@@ -9064,6 +10144,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &2028650497 stripped
@@ -9183,6 +10278,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
@@ -9310,6 +10420,21 @@ PrefabInstance:
       propertyPath: speed
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}
 --- !u!4 &2110984096 stripped
@@ -9429,6 +10554,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: boidEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomEffect
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955716586969184779, guid: 20e3ef93d39fbe448be7158161119df2,
+        type: 3}
+      propertyPath: randomnessInfluence
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20e3ef93d39fbe448be7158161119df2, type: 3}

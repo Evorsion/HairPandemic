@@ -15,6 +15,8 @@ public class PlayerWon : MonoBehaviour
 
             foreach (Transform t in GameObject.Find("#PlayerUnits").transform)
             {
+                if (!t.gameObject.activeInHierarchy) continue;
+
                 string number = t.name.Substring(t.name.IndexOf('.')+1);
                 int lvl = 0;
                 int.TryParse(number, out lvl);

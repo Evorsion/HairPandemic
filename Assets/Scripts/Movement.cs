@@ -20,7 +20,7 @@ public class Movement : MonoBehaviour, mvmnt
 
     //animation
     Animator animator;
-    Vector3 lastPos = Vector3.zero;
+    Vector3 lastPos = Vector3.zero;     //determines if unit has moved
 
     //physic fix
     Rigidbody2D rb;

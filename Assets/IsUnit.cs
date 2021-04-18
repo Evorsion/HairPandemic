@@ -6,6 +6,8 @@ public class IsUnit : MonoBehaviour
 {
     public static bool isUnit(GameObject go)
     {
-        return go.GetComponent<Movement>() || go.GetComponent<Move_by_orders>();
+        return go.GetComponent<Movement>()
+            || go.GetComponent<Move_by_orders>()
+            || go.GetComponent<UnitBOIDS>();
     }
 }
