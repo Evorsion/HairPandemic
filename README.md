@@ -13,6 +13,6 @@ Play demo at [Google Play](https://play.google.com/store/apps/details?id=com.Evo
 |   ✔    | Menu               | `done`     |
 |   ✔    | Level design       | `done`     |
 |   ✔    | Gameplay tuning    | `done`     |
-|   ✔    | GUI                | `polish`   |
+|   ✔    | GUI                | `done`     |
 |   ❌    | Story              | `prepared` |
 
