@@ -48,21 +48,38 @@ Je nutné klást velký důraz na UX, tak aby hráč nebyl z ovládání, hratel
 
 ### Detailní popis mechanik
 
+
+
 Hráč ovládá svou skupinu pomocí joysticku v dolní části obrazovky.
+
 Skupina se vydává primárně ve směru joysticku, ale pohyb jednotlivců je doplněn o náhodné chování a interakce se skupinou.
+
 Interakce se skupinou sestávají ze tří indikátorů sečtených do jednoho vektoru.
+
 Indikátor soudržnosti posílá jednotlivce směrem k ostatním jednotkám jeho skupiny.
+
 Indikátor zarovnání posílá jednotlivce stejným směrem jako míří ostatní jednotky jeho skupiny.
+
 Indikátor separace posílá jednotlivce směrem od ostatních jednotek jeho skupiny.
+
 Nepřátelské jednotky jsou uspořádané do skupin. Každá skupina má vymezené území na kterém se pohybuje náhodnými procházkami.
+
 Nepřátelská jednotka se vždy pohybuje k cílovému bodu procházky. Skupina dosáhne cíle pouze pokud průměrná pozice skupiny je v blízkosti cíle.
+
 Pokud se přiblíží hráčská jednotka nepřátelské (a naopak) na dosah jejich zbraně, začne útočit ve specifikovaných intervalech konstantním poškozením.
+
 Pokud dosáhne nepřátelská jednotka úrovně zdraví rovné nule, promění se v hráčskou jednotku stejné úrovně s plným zdravím.
+
 Pokud hráčská jednotka dosáhne úrovně zdraví rovné nule, promění se v nepohyblivou neutrální jednotku.
+
 Po konci každé úrovně nastane fáze slučování jednotek. Hráč přetažením jednotky na jinou jednotku stejné úrovně sloučí tyto jednotky do jedné o úroveň vyšší jednotky.
+
 Jednotka druhé úrovně je asi třikrát silnější než jednotka první úrovně. Je tomu tak aby byl hráč motivovaný do slučování jednotek na silnější.
+
 Po celou dobu hry je kamera zaměřená tak aby byla vidět každá hráčská jednotka, ale zároveň je oddálení kamery co nejmenší.
+
 V rohu obrazovky se vyskytuje minimapa, která zobrazuje pozici všech jednotek v úrovni.
+
 Některé úrovně jsou opatřené pastmi, ve kterých se může libovolná jednotka zranit.
 
  
