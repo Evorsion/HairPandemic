@@ -5860,7 +5860,7 @@ GameObject:
   - component: {fileID: 2147102097}
   - component: {fileID: 2147102096}
   m_Layer: 5
-  m_Name: Go to menu
+  m_Name: Go to story
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5964,7 +5964,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Menu
+          m_StringArgument: Story_end
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2147102099
@@ -5987,7 +5987,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7042847911465117151, guid: efc1c196db924274191c79a9944a340a,
+  m_Sprite: {fileID: -7176300867611961145, guid: 317911efdc6bcd448835c57a41e33fda,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 1
