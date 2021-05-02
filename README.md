@@ -4,17 +4,17 @@ Play demo at [Google Play](https://play.google.com/store/apps/details?id=com.Evo
 
 # Roadmap
 
-| Status | Goal               | Labels     |
-| :----: | :----------------- | :--------- |
-|   ✔    | Movement           | `done`     |
-|   ✔    | Fighting and stats | `done`     |
-|   ✔    | Merge mechanic     | `done`     |
-|   ✔    | Level switching    | `done`     |
-|   ✔    | Menu               | `done`     |
-|   ✔    | Level design       | `done`     |
-|   ✔    | Gameplay tuning    | `done`     |
-|   ✔    | GUI                | `done`     |
-|   ❌    | Story              | `prepared` |
+| Status | Goal               | Labels |
+| :----: | :----------------- | :----- |
+|   ✔    | Movement           | `done` |
+|   ✔    | Fighting and stats | `done` |
+|   ✔    | Merge mechanic     | `done` |
+|   ✔    | Level switching    | `done` |
+|   ✔    | Menu               | `done` |
+|   ✔    | Level design       | `done` |
+|   ✔    | Gameplay tuning    | `done` |
+|   ✔    | GUI                | `done` |
+|   ✔    | Story              | `done` |
 
 
 
