@@ -358,10 +358,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   HP: 0
-  maxHP: 3000
+  maxHP: 2560
   timeOfAttack: 0
   cooldown: 0.1
-  damage: 5
+  damage: 6.95
   hpBar: {fileID: 6168264390670538253}
 --- !u!114 &680963258
 MonoBehaviour:
@@ -377,7 +377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boundaries: {x: 100, y: 100}
   velocity: {x: 0, y: 0}
-  speed: 8
+  speed: 15
   randomnessInfluence: 0.005
   joystickInfluence: 0.5
   boidEffect: 0.1

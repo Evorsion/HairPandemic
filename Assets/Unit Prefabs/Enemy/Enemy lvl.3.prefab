@@ -509,7 +509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5387438697136ae4195bb98766a0af46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 6
+  movementSpeed: 12
 --- !u!114 &3284631940703665748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -538,10 +538,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   HP: 0
-  maxHP: 225
+  maxHP: 370
   timeOfAttack: 0
   cooldown: 0.1
-  damage: 7.5
+  damage: 5.35
   hpBar: {fileID: 3284631939471769003}
 --- !u!1 &3284631940771078602
 GameObject:

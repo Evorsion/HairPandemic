@@ -113,7 +113,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9fe9e7826af4aa54aba139d8051b8f4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageInPercent: 70
+  damageInPercent: 80
   onGround: {fileID: -2572143405178213479, guid: d867e38ea5fa4854ba11268c6d4e0e2e,
     type: 3}
   inAir: {fileID: -3117451158447428861, guid: d867e38ea5fa4854ba11268c6d4e0e2e, type: 3}
+  resetTime: 1

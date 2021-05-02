@@ -5630,7 +5630,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boundaries: {x: 100, y: 100}
   velocity: {x: 0, y: 0}
-  speed: 8
+  speed: 15
   randomnessInfluence: 0.005
   joystickInfluence: 0.5
   boidEffect: 0.1

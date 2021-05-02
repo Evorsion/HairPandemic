@@ -15,7 +15,7 @@ public class Bear_trap : MonoBehaviour
 
     private void Update()
     {
-        if (used)
+        if (used && victim != null)
         {
             victim.transform.position = this.transform.position + new Vector3(0, victim.transform.localScale.y * verticalOffset, 0);
         }

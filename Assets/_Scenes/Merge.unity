@@ -526,7 +526,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4a2f91408987a1a44aae2ba98ae71793, type: 2}
   - {fileID: 11400000, guid: 8083db7ebcabaa24a965574646879eaa, type: 2}
   - {fileID: 11400000, guid: 134db210fc2f1be48b7209cd9828c30c, type: 2}
-  maxUnitLvl: 0
+  maxUnitLvl: 4
   unitStringBackup: 
 --- !u!4 &1026108416
 Transform:

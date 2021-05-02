@@ -48,6 +48,11 @@ public class Merge_dragNdrop : MonoBehaviour
 
     private void Start()
     {
+        if (IsLastMerge())
+        {
+            SceneManager.LoadScene("Win");
+        }
+
         int maxUnitLvl = this.GetComponent<Merge_init>().maxUnitLvl;
         string units = this.GetComponent<Merge_init>().unitStringBackup;
         unitCount = new int[maxUnitLvl];
@@ -207,6 +212,14 @@ public class Merge_dragNdrop : MonoBehaviour
         return position;
     }
 
+    public bool IsLastMerge()
+    {
+        string lastLevel = PlayerPrefs.GetString("lastLevel");
+        int nextLevelNum = int.Parse(lastLevel.Substring(lastLevel.IndexOfAny("0123456789".ToCharArray()))) + 1;
+        string nextLevel = lastLevel.Substring(0, lastLevel.IndexOfAny("0123456789".ToCharArray())) + nextLevelNum;
+
+        return !Application.CanStreamedLevelBeLoaded(nextLevel);
+    }
 
     public void EndMerging()
     {

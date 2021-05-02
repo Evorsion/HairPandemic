@@ -15225,7 +15225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5387438697136ae4195bb98766a0af46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 6
+  movementSpeed: 12
 --- !u!114 &1603786227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15257,7 +15257,7 @@ MonoBehaviour:
   maxHP: 50
   timeOfAttack: 0
   cooldown: 0.1
-  damage: 0.5
+  damage: 0.485
   hpBar: {fileID: 369169932}
 --- !u!1 &1810110107
 GameObject:
