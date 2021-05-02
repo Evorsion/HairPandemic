@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/_Scenes/Menu.unity
     guid: f40b74caf1f6eaa49889a135507ab733
   - enabled: 1
+    path: Assets/_Scenes/Tutorial.unity
+    guid: de3405e5babb7574d98a589803833b59
+  - enabled: 1
     path: Assets/_Scenes/Merge.unity
     guid: 72542ac9f07c6534f867399c42569c0a
   - enabled: 1
@@ -23,9 +26,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/Story_end.unity
     guid: 175659405cddead44843a13c81d2750d
-  - enabled: 1
-    path: Assets/_Scenes/Credits.unity
-    guid: 86062498b6e68b54faf77da4abee64ef
   - enabled: 1
     path: Assets/_Scenes/Level1.unity
     guid: f9229410252b5a242b5662dbf49338af
