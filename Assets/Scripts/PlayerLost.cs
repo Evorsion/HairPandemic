@@ -9,10 +9,7 @@ public class PlayerLost : MonoBehaviour
     {
         if (this.transform.childCount <= 0)
         {
-            //reset progress
-            PlayerPrefs.SetString("units", "");
-            PlayerPrefs.SetString("lastLevel", "");
-
+            PlayerPrefs.SetString("lastLevel", SceneManager.GetActiveScene().name);
 
             SceneManager.LoadScene("Game over");
         }

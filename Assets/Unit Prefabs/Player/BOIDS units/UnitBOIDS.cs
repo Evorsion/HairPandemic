@@ -162,7 +162,7 @@ public class UnitBOIDS : MonoBehaviour
         float y = Random.Range(-range, range);
 
 
-        velocity += joystickInput.magnitude * randomnessInfluence * new Vector2(x, y).normalized;
+        velocity += /*joystickInput.magnitude * */randomnessInfluence * new Vector2(x, y).normalized;
         velocity += boidEffect * (sep * separationCoeficient + ali * alignementCoeficient + coh * cohesionCoeficient).normalized;
         velocity += joystickInfluence * joystickInput.normalized;
 

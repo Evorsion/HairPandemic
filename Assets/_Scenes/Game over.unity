@@ -796,9 +796,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1885855029}
-        m_TargetAssemblyTypeName: Change_scene, Assembly-CSharp
-        m_MethodName: ChangeScene
-        m_Mode: 5
+        m_TargetAssemblyTypeName: Try_again, Assembly-CSharp
+        m_MethodName: TryAgain
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -854,7 +854,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1885855024}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5afb6391735d5b24cbe5f4df2712d762, type: 3}
+  m_Script: {fileID: 11500000, guid: 0488096661e7cba439941c3291bd4122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1885855030

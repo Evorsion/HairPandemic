@@ -25,8 +25,10 @@ public class Merge_init : MonoBehaviour
         //set camera zoom
         Camera.main.orthographicSize = Camera.main.orthographicSize / 3 * (layers * 2 - 1);
 
+        string units = PlayerPrefs.GetString("units");
         //put units into tiles
         SpawnUnits(layers);
+        PlayerPrefs.SetString("units", units);
     }
 
     private void SpawnUnits(int layers)

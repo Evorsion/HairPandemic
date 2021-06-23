@@ -17,7 +17,7 @@ public class Player_spawner : MonoBehaviour
 
         Destroy(playerUnitsDir.transform.GetChild(0).gameObject);
 
-        HardBoundaries hb = GameObject.Find("#Units").GetComponent<HardBoundaries>();
+        //HardBoundaries hb = GameObject.Find("#Units").GetComponent<HardBoundaries>();
 
         for (int unit = 0; unit < units.Length; unit++)
         {
